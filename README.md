@@ -1,7 +1,10 @@
+![GoodPay](https://user-images.githubusercontent.com/31005408/170073906-6fc8cc1b-03aa-413d-9285-7f9ceed20411.png)
+
 # GoodPayBCW20
 O GoodPay é uma aplicação em formato POC, servirá como prova de aptidão de contexto para validarmos os conhecimentos dos alunos em front-end e uso prático de fluxo CI/CD com DevOps como metodologia de entregas de tarefas.
 
 [Sobre o Time de Desenvolvimento]
+
 Este aplicativo não tem conexão com o banco de dados, o desenvolvimento deste aplicativo tem como finalidade o aprendizado de aplicações e interface web. Assim o uso deste aplicativo deve ser pensado como um protótipo não funcional.
 
 A aplicação usa elementos de personalização em Bootstrap 5, com Javascript local, os dados utilizados para e adicionados neste interface não são enviados a um serviço.
@@ -9,6 +12,11 @@ A aplicação usa elementos de personalização em Bootstrap 5, com Javascript l
 
 
 [Quem é SoulCode Academy]
+
+![logo-dark](https://user-images.githubusercontent.com/31005408/170073698-5fbbed22-70c2-4501-a6dc-7bf62058116b.png)
+![logo-itlean](https://user-images.githubusercontent.com/31005408/170073737-d4049f0a-7db3-4549-ad53-745c46319f26.png)
+![logo-tnt](https://user-images.githubusercontent.com/31005408/170073782-307fd97e-2218-4bb0-8634-833fab28c048.png)
+
 
 Tech For Good: 5 pilares que vão transformar o mundo: Educação, Diversidade, Saúde, Longevidade e Sustentabilidade Nossa missão é a formação e o emprego, aplicando os 5 pilares do "Tech For Good". Ser uma escola inclusiva, que, através de nossa metodologia ágil, possa capacitar e educar em tecnologia, gerar oportunidades de emprego para todas as gerações, no início ou na ressignificação de carreira, com foco em diversidade e equidade. Numa profissão que fomente o bem-estar físico e mental, permitindo o equilíbrio entre a vida profissional e pessoal, através do trabalho remoto, com flexibilidade de horários, além de ser um negócio sustentável e responsável, socialmente.
 
@@ -114,3 +122,15 @@ Adição da Página de Recuperar Senha [60pts] enhancement
 
 Adição da Página de Cadastro [60pts] enhancement
 #1 by victoricoma 
+
+[Banners de Cards Exemplos:]
+![1](https://user-images.githubusercontent.com/31005408/170073287-b5020d5a-7f49-4d50-9ff1-6c0a7ed0bc89.png)
+![2](https://user-images.githubusercontent.com/31005408/170073361-ec579539-5a56-4c08-b35e-ec44703fe761.png)
+
+[Promoções Banner Exemplos: ]
+![BannerGoodPay](https://user-images.githubusercontent.com/31005408/170073483-91e818ef-6a63-4578-888c-282336ff5d2a.png)
+![BannerGoodPay2](https://user-images.githubusercontent.com/31005408/170073522-b0546394-3cf6-45e8-8cf4-dfd96b00b0ba.png)
+
+
+
+
