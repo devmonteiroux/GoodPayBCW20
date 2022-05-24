@@ -23,6 +23,9 @@ Tech For Good: 5 pilares que vão transformar o mundo: Educação, Diversidade, 
 
 # [Specs: Tarefas para o projeto.]
 
+Vídeo Demonstração das Visão Final:
+
+[https://youtu.be/UivM58c5V5g](https://youtu.be/UivM58c5V5g)
 
 Adição de link para voltar para página app.html em todos os NAV [30pts] bug help wanted
 #41 by victoricoma 
