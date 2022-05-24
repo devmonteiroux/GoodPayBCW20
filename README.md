@@ -3,15 +3,17 @@
 # GoodPayBCW20
 O GoodPay é uma aplicação em formato POC, servirá como prova de aptidão de contexto para validarmos os conhecimentos dos alunos em front-end e uso prático de fluxo CI/CD com DevOps como metodologia de entregas de tarefas.
 
-[Sobre o Time de Desenvolvimento]
+# [Sobre o Time de Desenvolvimento]
 
 Este aplicativo não tem conexão com o banco de dados, o desenvolvimento deste aplicativo tem como finalidade o aprendizado de aplicações e interface web. Assim o uso deste aplicativo deve ser pensado como um protótipo não funcional.
 
 A aplicação usa elementos de personalização em Bootstrap 5, com Javascript local, os dados utilizados para e adicionados neste interface não são enviados a um serviço.
+
+
 ![image](https://user-images.githubusercontent.com/31005408/170058253-8fd3d02d-cfed-4bb7-9bcd-38733a637d8a.png)
 
 
-[Quem é SoulCode Academy]
+# [Quem é SoulCode Academy]
 
 ![logo-dark](https://user-images.githubusercontent.com/31005408/170073698-5fbbed22-70c2-4501-a6dc-7bf62058116b.png)
 
@@ -19,7 +21,7 @@ Tech For Good: 5 pilares que vão transformar o mundo: Educação, Diversidade, 
 # Patrocinadores:
 ![logo-itlean](https://user-images.githubusercontent.com/31005408/170073737-d4049f0a-7db3-4549-ad53-745c46319f26.png)
 
-[Specs: Tarefas para o projeto.]
+# [Specs: Tarefas para o projeto.]
 
 
 Adição de link para voltar para página app.html em todos os NAV [30pts] bug help wanted
@@ -122,11 +124,11 @@ Adição da Página de Recuperar Senha [60pts] enhancement
 Adição da Página de Cadastro [60pts] enhancement
 #1 by victoricoma 
 
-[Banners de Cards Exemplos:]
+# [Banners de Cards Exemplos:]
 ![1](https://user-images.githubusercontent.com/31005408/170073287-b5020d5a-7f49-4d50-9ff1-6c0a7ed0bc89.png)
 ![2](https://user-images.githubusercontent.com/31005408/170073361-ec579539-5a56-4c08-b35e-ec44703fe761.png)
 
-[Promoções Banner Exemplos: ]
+# [Promoções Banner Exemplos: ]
 ![BannerGoodPay](https://user-images.githubusercontent.com/31005408/170073483-91e818ef-6a63-4578-888c-282336ff5d2a.png)
 ![BannerGoodPay2](https://user-images.githubusercontent.com/31005408/170073522-b0546394-3cf6-45e8-8cf4-dfd96b00b0ba.png)
 
