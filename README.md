@@ -14,11 +14,9 @@ A aplicação usa elementos de personalização em Bootstrap 5, com Javascript l
 [Quem é SoulCode Academy]
 
 ![logo-dark](https://user-images.githubusercontent.com/31005408/170073698-5fbbed22-70c2-4501-a6dc-7bf62058116b.png)
-![logo-itlean](https://user-images.githubusercontent.com/31005408/170073737-d4049f0a-7db3-4549-ad53-745c46319f26.png)
-![logo-tnt](https://user-images.githubusercontent.com/31005408/170073782-307fd97e-2218-4bb0-8634-833fab28c048.png)
-
 
 Tech For Good: 5 pilares que vão transformar o mundo: Educação, Diversidade, Saúde, Longevidade e Sustentabilidade Nossa missão é a formação e o emprego, aplicando os 5 pilares do "Tech For Good". Ser uma escola inclusiva, que, através de nossa metodologia ágil, possa capacitar e educar em tecnologia, gerar oportunidades de emprego para todas as gerações, no início ou na ressignificação de carreira, com foco em diversidade e equidade. Numa profissão que fomente o bem-estar físico e mental, permitindo o equilíbrio entre a vida profissional e pessoal, através do trabalho remoto, com flexibilidade de horários, além de ser um negócio sustentável e responsável, socialmente.
+![logo-itlean](https://user-images.githubusercontent.com/31005408/170073737-d4049f0a-7db3-4549-ad53-745c46319f26.png)
 
 [Specs: Tarefas para o projeto.]
 
