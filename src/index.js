@@ -1,4 +1,5 @@
 var janelaLogin = new bootstrap.Modal(document.getElementById("loginNegado"));
+var loginBranco = new bootstrap.Modal(document.getElementById("campoBranco"));
 var janelaPromocao = new bootstrap.Modal(document.getElementById("promo1"));
 
 function rotaCadastro() {
@@ -10,7 +11,9 @@ function rotaRecuperar() {
 function rotaLogin() {
   let email = document.getElementById("email").value;
   let senha = document.getElementById("senha").value;
-  if (email === "victoricoma@gmail.com" && senha === "gordinho123") {
+  if (email === "" || senha === ""){
+    loginBranco.show()
+  } else if (email === "victoricoma@gmail.com" && senha === "gordinho123") {
     window.location.href = "../index.html";
   } else {
     janelaLogin.show();
